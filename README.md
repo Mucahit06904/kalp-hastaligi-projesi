@@ -53,7 +53,7 @@ ________________________________________
 8. Proje Kaynakları ve Linkler
 •	Kaggle Notebook: [Kaggle Notebook Editor](https://www.kaggle.com/code/mcahitsarca/notebookdb23e98211/edit)
 •	Veri Seti: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
-•	GitHub Repo: https://github.com/yourusername/heart-disease-prediction
+•	GitHub Repo:https://github.com/Mucahit06904/kalp-hastaligi-projesi
 ________________________________________
 Ek Bilgiler
 •	Projede Python, Pandas, Scikit-learn, TensorFlow, Matplotlib ve Seaborn kütüphaneleri kullanılmıştır.
